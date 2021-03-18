@@ -33,5 +33,7 @@ If you have this error:
 
 Launching `docker-compose up` again should get rid of it
 
+The API is served on the port 8088
+
 ### Api Rest Documentation
 You can find a documentation for the API with some examples values here https://documenter.getpostman.com/view/2690818/Tz5tZbsj
